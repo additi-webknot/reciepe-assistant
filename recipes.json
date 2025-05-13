@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Chicken Curry",
+        "ingredients": ["chicken breast", "onion", "garlic", "ginger", "curry powder", "coconut milk", "tomatoes", "rice"],
+        "cuisine": "Indian",
+        "prep_time": 20,
+        "cook_time": 25,
+        "difficulty": "Medium",
+        "dietary": []
+    },
+    {
+        "id": 2,
+        "name": "Quinoa Salad",
+        "ingredients": ["quinoa", "cucumber", "cherry tomatoes", "red onion", "feta cheese", "olive oil", "lemon juice", "salt", "pepper"],
+        "cuisine": "Mediterranean",
+        "prep_time": 15,
+        "cook_time": 15,
+        "difficulty": "Easy",
+        "dietary": ["vegetarian", "gluten-free"]
+    },
+    {
+        "id": 3,
+        "name": "Chocolate Chip Cookies",
+        "ingredients": ["flour", "butter", "sugar", "brown sugar", "eggs", "vanilla extract", "chocolate chips", "baking soda", "salt"],
+        "cuisine": "American",
+        "prep_time": 15,
+        "cook_time": 12,
+        "difficulty": "Easy",
+        "dietary": ["eggetarian"]
+    },
+    {
+        "id": 4,
+        "name": "Pancakes",
+        "ingredients": ["flour", "sugar", "baking powder", "salt", "milk", "eggs", "butter", "vanilla extract"],
+        "cuisine": "American",
+        "prep_time": 10,
+        "cook_time": 15,
+        "difficulty": "Easy",
+        "dietary": ["eggetarian"]
+    },
+    {
+        "id": 5,
+        "name": "Margherita Pizza",
+        "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "fresh basil", "olive oil", "salt"],
+        "cuisine": "Italian",
+        "prep_time": 20,
+        "cook_time": 15,
+        "difficulty": "Medium",
+        "dietary": ["vegetarian"]
+    },
+    {
+        "id": 6,
+        "name": "Chocolate Brownies",
+        "ingredients": ["butter", "sugar", "eggs", "vanilla extract", "cocoa powder", "flour", "salt", "chocolate chips"],
+        "cuisine": "American",
+        "prep_time": 15,
+        "cook_time": 30,
+        "difficulty": "Easy",
+        "dietary": []
+    },
+    {
+        "id": 7,
+        "name": "Hakka Noodles",
+        "ingredients": ["noodles", "cabbage", "carrot", "bell pepper", "spring onion", "garlic", "soy sauce", "vinegar", "black pepper", "oil"],
+        "cuisine": "Chinese",
+        "prep_time": 20,
+        "cook_time": 15,
+        "difficulty": "Medium",
+        "dietary": ["vegetarian"]
+    },
+    {
+        "id": 8,
+        "name": "Pasta Arabiata",
+        "ingredients": ["pasta", "tomatoes", "garlic", "chili flakes", "basil", "olive oil", "salt", "black pepper"],
+        "cuisine": "Italian",
+        "prep_time": 15,
+        "cook_time": 20,
+        "difficulty": "Easy",
+        "dietary": ["vegetarian"]
+    },
+    {
+        "id": 9,
+        "name": "French Toast",
+        "ingredients": ["bread", "eggs", "milk", "sugar", "cinnamon", "vanilla extract", "butter", "maple syrup"],
+        "cuisine": "French",
+        "prep_time": 10,
+        "cook_time": 15,
+        "difficulty": "Easy",
+        "dietary": ["eggetarian"]
+    },
+    {
+        "id": 10,
+        "name": "Chicken Biryani",
+        "ingredients": ["basmati rice", "chicken", "onion", "tomato", "yogurt", "ginger", "garlic", "green chili", "biryani masala", "saffron", "mint leaves", "coriander leaves", "ghee", "oil", "salt"],
+        "cuisine": "Indian",
+        "prep_time": 40,
+        "cook_time": 50,
+        "difficulty": "Hard",
+        "dietary": []
+    }
+]
